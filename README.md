@@ -64,7 +64,7 @@ misc:
   connect-timeout: 5000
   read-write-timeout: 60000
   log-file: stderr
-  log-level: debug
+  log-level: error
   limit-nofile: 65535
 ```
 
